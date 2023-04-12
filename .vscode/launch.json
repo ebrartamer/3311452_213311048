@@ -1,0 +1,268 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "calculator",
+            "cwd": "Users\\ASUS\\StudioProjects\\calculator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calculator (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\calculator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calculator (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\calculator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "database_first",
+            "cwd": "Users\\ASUS\\StudioProjects\\database_first",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "database_first (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\database_first",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "database_first (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\database_first",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "first",
+            "cwd": "Users\\ASUS\\StudioProjects\\first",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "first (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\first",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "first (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\first",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "kanbhan",
+            "cwd": "Users\\ASUS\\StudioProjects\\kanbhan",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "kanbhan (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\kanbhan",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "kanbhan (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\kanbhan",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "mehmet_ali_bayram_flutter",
+            "cwd": "Users\\ASUS\\StudioProjects\\mehmet_ali_bayram_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mehmet_ali_bayram_flutter (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\mehmet_ali_bayram_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mehmet_ali_bayram_flutter (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\mehmet_ali_bayram_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "newLearn",
+            "cwd": "Users\\ASUS\\StudioProjects\\newLearn",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "newLearn (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\newLearn",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "newLearn (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\newLearn",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "odev3",
+            "cwd": "Users\\ASUS\\StudioProjects\\odev3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "odev3 (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\odev3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "odev3 (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\odev3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "odev3_2",
+            "cwd": "Users\\ASUS\\StudioProjects\\odev3_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "odev3_2 (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\odev3_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "odev3_2 (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\odev3_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "personel_planner_app",
+            "cwd": "Users\\ASUS\\StudioProjects\\personel_planner_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "personel_planner_app (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\personel_planner_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "personel_planner_app (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\personel_planner_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "untitled",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "untitled (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "untitled (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "untitled1",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "untitled1 (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "untitled1 (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "untitled2",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "untitled2 (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "untitled2 (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "untitled3",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "untitled3 (profile mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "untitled3 (release mode)",
+            "cwd": "Users\\ASUS\\StudioProjects\\untitled3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
