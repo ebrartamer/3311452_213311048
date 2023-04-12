@@ -9,11 +9,11 @@ import 'package:aroma_coffee/auth/password.dart';
 import 'package:aroma_coffee/auth/register.dart';
 import 'package:aroma_coffee/utils/navigateToLoginPage.dart';
 import '/screens/about.dart';
-import 'askMe.dart';
+import 'screens/askMe.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import '../auth/signin.dart';
-import '../utils/navigateToHome.dart';
+import 'auth/signin.dart';
+import 'utils/navigateToHome.dart';
 
 void main() => runApp(MyApp());
 
